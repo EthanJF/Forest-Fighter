@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem 'activerecord', "~> 5.2.3"
 gem 'sinatra-activerecord'
 gem 'require_all'
-gem 'sqlite3'
+gem 'pg'
 gem 'rake'
 gem 'pry'
 gem 'tty-prompt'
